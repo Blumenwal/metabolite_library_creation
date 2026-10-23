@@ -9,7 +9,10 @@ The spectra in the libraries are only separated by their polarity, to create one
 
 **MoNA** - downloaded All_LC-MS-MS Orbitrap data on 24.08.2026 as msp from https://massbank.us/downloads
 
-**MassBank** - obtained on 24.08.2026 using the following R-code (that can be found in harmonize_libraries.R):<br>
+**MassBank** - downloaded MassBank_NISTformat on 23.10.2026 as msp from https://github.com/MassBank/MassBank-data/releases/tag/2026.03
+
+For Version 1:
+obtained on 24.08.2026 using the following R-code (that can be found in harmonize_libraries.R):<br>
 ```
 library(AnnotationHub)
 library(CompoundDb)
