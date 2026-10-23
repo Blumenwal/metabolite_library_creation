@@ -46,16 +46,17 @@ extract_massbank <- function (cdb, polarity_value, polarity) {
   sp <- filterPolarity(sp, polarity = polarity_value)
   
   # transform to dataframe and create metadata
-  #print(colnames(as.data.frame(compounds(cdb))))
-  cmp <- as.data.frame(compounds(cdb, columns = c("compound_id", "name", "formula", 
-                                                  "exactmass", "inchikey")))
   #print(colnames(as.data.frame(spectraData(sp))))
   meta <- as.data.frame(spectraData(sp, columns = c("compound_id", "precursorMz", 
                                                     "polarity", "collisionEnergy",
-                                                    "adduct")))
+                                                    "adduct", "instrument")))
+  
+  #print(colnames(as.data.frame(compounds(cdb))))
+  cmp <- as.data.frame(compounds(cdb, columns = c("compound_id", "name", "formula", 
+                                                  "exactmass", "inchikey")))
   
   # rename precursor mz and collision energy
-  colnames(meta) <- c("compound_id", "precursor_mz", "polarity", "collision_energy", "adduct")
+  colnames(meta) <- c("compound_id", "precursor_mz", "polarity", "collision_energy", "adduct", "instrument")
   
   # extract peak data
   pd <- peaksData(sp)
@@ -68,7 +69,9 @@ extract_massbank <- function (cdb, polarity_value, polarity) {
   meta$collision_energy <- as.character(meta$collision_energy)
   
   # merge all information together into one data frame
-  merge(meta, cmp, by = "compound_id", all.x = TRUE)
+  merge(meta, cmp, by = "compound_id", all.x = TRUE) %>%
+    filter(grepl("orbitrap", instrument, ignore.case = TRUE)) %>%
+    select(-instrument)
 }
 
 mb_pos <- extract_massbank(mb, 1L, "P")
