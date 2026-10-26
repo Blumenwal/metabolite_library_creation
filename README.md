@@ -26,6 +26,9 @@ mb <- ah["AH119519"]]
 2. Use the **merge_libraries.ipynb** script to merge the library files with identical polarity.
 3. Use the **harmonize_libraries.R** to include the MassBank entries, harmonize and deduplicate the spectra, separated on their polarity. The sqlite-files are first read and merged from different libraries, then the MassBank entries are loaded and split by their polarity. Then the entries from all libraries are bound together, before making sure some values are cast correctly ([M+H]+ instead of M+H as adducts). Following this, duplicated entries are removed. These duplicated entries correspond to spectra included in multiple libraries. In the last step, the final CompDb is created, to use it later for the annotation of mass spectra.
 
+# Possible error messages and solutions:
+- ```Error: Table metadata exists in database, and both overwrite and append are FALSE´´´ when running createCompDb() in R. This can occur, if a database file with the exact name already exists in the respective folder. Renaming the new database should fix this problem-
+
 # Used R libraries
 - DBI - 1.3.0
 - RSQLite - 3.53.3
@@ -35,6 +38,7 @@ mb <- ah["AH119519"]]
 - AnnotationHub - 4.0.0
 - CompoundDb - 1.14.2
 - Spectra - 1.20.1
+- biogas - 1.64.0
 
 # Used Python libraries
 - sqlite3
