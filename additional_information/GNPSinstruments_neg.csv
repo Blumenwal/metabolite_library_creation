@@ -1,0 +1,29 @@
+Instrument,count
+Orbitrap,172694
+qTof,19067
+Hybrid FT,9042
+CID; Velos,7784
+HCD; Velos,7783
+ESI-QFT,6665
+Ion Trap,5449
+QQQ,3642
+Linear Ion Trap,1981
+Maxis II HD Q-TOF Bruker,1864
+ESI-QTOF,1259
+impact HD,900
+qToF,668
+N/A,375
+CID; Lumos,288
+HCD; Lumos,287
+Q-Exactive Plus,274
+LC-ESI-QFT,214
+Quattro_QQQ:10eV,110
+Quattro_QQQ:25eV,109
+Quattro_QQQ:40eV,108
+Q-Exactive Plus Orbitrap Res 70k,55
+IT/ion trap,27
+Maxis HD qTOF,21
+HCD,5
+Q-TOF,3
+QqQ,3
+IT-FT/ion trap with FTMS,3

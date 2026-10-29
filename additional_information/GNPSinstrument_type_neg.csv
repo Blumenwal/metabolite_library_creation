@@ -1,0 +1,41 @@
+Instrument_type,count
+ESI-Orbitrap,161410
+ESI-qTof,12963
+LC-ESI-Orbitrap,11243
+ESI-Hybrid FT,9027
+LC-ESI-CID; Velos,7784
+LC-ESI-HCD; Velos,7783
+N/A-ESI-QFT,6665
+LC-ESI-qTof,5965
+ESI-QQQ,3636
+LC-ESI-Ion Trap,3135
+ESI-Ion Trap,2302
+N/A-Linear Ion Trap,1981
+LC-ESI-Maxis II HD Q-TOF Bruker,1864
+N/A-ESI-QTOF,1259
+LC-ESI- impact HD,900
+ESI-qToF,668
+N/A-N/A,375
+LC-ESI-CID; Lumos,288
+LC-ESI-HCD; Lumos,287
+LC-ESI-Q-Exactive Plus,273
+ESI-LC-ESI-QFT,214
+DI-ESI-qTof,139
+Negative-Quattro_QQQ:10eV,110
+Negative-Quattro_QQQ:25eV,109
+Negative-Quattro_QQQ:40eV,108
+DI-ESI-Orbitrap,41
+LC-ESI-Q-Exactive Plus Orbitrap Res 70k,29
+ESI-IT/ion trap,27
+-Q-Exactive Plus Orbitrap Res 70k,26
+-Maxis HD qTOF,15
+DI-ESI-Ion Trap,12
+DI-ESI-Hybrid FT,12
+LC-ESI-QQQ,6
+LC-ESI-Maxis HD qTOF,6
+ESI-HCD,5
+LC-ESI-Hybrid FT,3
+ESI-Q-TOF,3
+ESI-QqQ,3
+ESI-IT-FT/ion trap with FTMS,3
+DI-ESI-Q-Exactive Plus,1

@@ -1,0 +1,61 @@
+Instrument,count
+Orbitrap,525337
+qTof,47060
+ToF,31419
+ESI-QFT,21579
+Hybrid FT,14999
+CID; Velos,14754
+HCD; Velos,14750
+Maxis II HD Q-TOF Bruker,5818
+LC-ESI-ITFT,5550
+Flow-injection QqQ/MS,4250
+QQQ,4164
+LC-ESI-QTOF,3198
+Ion Trap,2719
+Linear Ion Trap,2678
+LC-ESI-QQ,2624
+qToF,2385
+ESI-QTOF,1249
+LC-ESI-QFT,1104
+LC-Q-TOF/MS,1040
+Quattro_QQQ:10eV,642
+Quattro_QQQ:25eV,636
+Quattro_QQQ:40eV,628
+CID; Lumos,538
+HCD; Lumos,537
+QIT,490
+QqQ,417
+LC-APPI-QQ,254
+IT/ion trap,246
+Maxis HD qTOF,231
+LC-ESI-IT,224
+Q-Exactive Plus Orbitrap Res 70k,222
+Q-Exactive Plus,213
+qTOF,210
+Q-TOF,207
+Q-Exactive Plus Orbitrap Res 14k,200
+LTQ-FT-ICR,175
+FAB-EBEB,166
+HCD,125
+APCI-ITFT,62
+LIT,59
+ESI-ITFT,45
+Ger,44
+LC-ESI-Q,18
+in source CID,18
+LC-ESI-ITTOF,17
+LTQ-FTICR,12
+IT-FT/ion trap with FTMS,11
+Qtof,10
+Hybrid Ft,6
+LCQ,5
+QIT-TOF,4
+impact HD,4
+ESI-FTICR,3
+UPLC-ESI-QTOF,3
+HPLC-ESI-TOF,3
+API,2
+QqIT,2
+BEqQ/magnetic and electric sectors with quadrupole,2
+Maxis,1
+Q-Exactive,1

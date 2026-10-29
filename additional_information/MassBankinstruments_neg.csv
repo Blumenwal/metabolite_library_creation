@@ -1,0 +1,123 @@
+Instrument,count
+"LC, Waters Acquity UPLC System; MS, Waters Xevo G2 Q-Tof",4996
+TripleTOF 5600 SCIEX,3528
+LTQ Orbitrap XL Thermo Scientific,2483
+Q Exactive Orbitrap (Thermo Scientific),2171
+"LC-10ADVPmicro HPLC, Shimadzu; LTQ Orbitrap, Thermo Scientific",2121
+"API3000, Applied Biosystems",2022
+TripleTOF 6600 SCIEX,1608
+Bruker impact HD,1310
+Q Exactive Plus Orbitrap Thermo Scientific,1246
+"TQD, Waters",1195
+Exploris 240 Orbitrap Thermo Scientific,1190
+N/A,1104
+Exploris 240 Thermo Scientific,1084
+Agilent 1200 RRLC; Agilent 6520 QTOF,1069
+Thermo Scientific Q-Exactive Focus,1026
+AB Sciex TripleTOF 5600+ system (Q-TOF) equipped with a DuoSpray ion source,753
+Bruker maXis Impact,691
+Q Exactive Orbitrap Thermo Scientific,677
+Agilent 6560 QTOF,660
+"UPLC Q-Tof Premier, Waters",652
+impact II,600
+Exploris 480 Orbitrap (Thermo Scientific),548
+"Q-Tof Premier, Waters",440
+Agilent 6530 Q-TOF LC/MS,424
+"Acquity UPLC Peptide BEH C18 column (50 x 2.1 mm; 1.7 um), Sciex TripleTOF5600",386
+"4000Q TRAP, Applied Biosystems",378
+"JMS-T100LP, JEOL",371
+maXis (Bruker Daltonics),306
+"X500R QTOF (AB Sciex LLC, USA)",305
+"LTQ Orbitrap XL, Thermo Scientfic; HP-1100 HPLC, Agilent",294
+"maXis plus UHR-ToF-MS, Bruker Daltonics",281
+QExactive Plus,273
+"LTQ Orbitrap XL, Thermo Scientfic",271
+Bruker MicrOTOF-Q,271
+"JMS-T100LP, JEOL Ltd.",259
+"ZQ, Waters",251
+"LCMS-8040 coupled to Nexera XR (Shimadzu, Kyoto, Japan).",238
+Q Exactive Plus,234
+Agilent 6410 Triple Quadrupole LC/MS system,196
+TripleToF 5600; Sciex,189
+"X500R QTOF (AB Sciex LLC, MA, USA) coupled to ExionLC AD (AB Sciex LLC, MA, USA).",183
+"Q-Exactive HF, Thermo Scientific [MS:1002523]",174
+"Agilent QTof 6545, Agilent Technologies [MS:1000490]",165
+Orbitrap Exploris 240 Thermo Scientific,160
+"TIMS-TOF Pro, Bruker Daltonik; Elute UHPLC System, Bruker Daltonik",147
+QExactive Orbitrap HF-X (Thermo Scientific),132
+"Q-Exactive Orbitrap, Thermo Scientfic; Ultimate 3000 HPLC, Thermo Scientfic",132
+"Vanquish LC, Thermo Scientific; Exploris 120 Orbitrap, Thermo Scientific",121
+"QE Focus, Thermo Scientfic; UPLC I-Class, Waters",121
+"X500R QTOF (AB Sciex LLC, MA, USA)",115
+Q Exactive,87
+LTQ-Orbitrap XL hybrid mass spectrometer (Thermo Scientific),86
+LCMS-IT-TOF,85
+"LTQ XL, Thermo Finnigan",80
+"Xevo TQ, Waters",78
+Thermo Fusion Orbitrap,78
+Q-Exactive Orbitrap Thermo Scientific,76
+"QuattroPremier XE, Waters",68
+"LTQ Orbitrap XL, Thermo Scientfic; Dionex Ultimate 300",60
+"2695 HPLC Quadro Micro API, Waters",55
+Orbitrap Elite,50
+micrOTOF-Q,49
+AGILENT 6546 LC/QToF,48
+Xevo TQ MS (Waters),48
+Agilent 6546 Q-ToF,46
+"ExionLC AD, AB Sciex LLC, USA; X500R QTOF, AB Sciex LLC, USA.",44
+Shimadzu LC20A-IT-TOFMS,44
+Thermo_Qexactive_Plus,44
+6550 Q-TOF (Agilent Technologies),42
+"UPLC Waters, Quattro Ultima Pt Micromass",38
+QExactive Plus Orbitrap,36
+Q-Exactive + Thermo Scientific,35
+"API 3000 triple-quadrupole mass spectrometer (PerkinElmer Sciex, Concord, ON, Canada)",31
+TripleTOF X500R SCIEX,27
+LTQ Orbitrap Velos Thermo Scientific,25
+API QSTAR Pulsar i,24
+"Nexera X2 UHPLC system, Shimadzu - Q Exactive Orbitrap, Thermo Scientific",23
+"Agilent (Waldbronn, Germany) Model 1100; API 3000 triple-quadrupole mass spectrometer (Perkin-Elmer Sciex, Concord, ON, Canada)",22
+"Vanquish Flex UHPLC system, Thermo Fisher Scientific - Orbitrap Q Exactive Plus mass spectrometer, Thermo Fisher Scientific",16
+"Agilent 1290 liquid chromatography system, Agilent Technologies - TripleTOF 6600+ mass spectrometer, AB SCIEX",16
+"LTQ Orbitrap XL, Thermo Scientfic; Aquity (U)HPLC, Waters",16
+"TSQ Vantage, Thermo Scientific coupled to Nexera, Shimadzu",14
+Thermo Scientific Orbitrap Exploris 480 Quadrupole Orbitrap MS,14
+Bruker timsTOF,14
+"Triple Quad 4500 (AB Sciex Pte. Ltd., USA)",13
+Synapt (HDMS 1st gen),13
+"TripleToF5600, Sciex; Acquity, Waters",12
+AB Sciex TripleToF 5500,11
+"Thermo Scientific LTQ-XL (San Jose, CA, USA)",10
+TSQ QUANTUM AM,8
+"UPLC system, AB SCIEX - TripleTOF 5600+ mass spectrometer, AB SCIEX",8
+TSQ 7000,7
+"JMS-HX/HX 110A, JEOL",7
+"JMS-700, JEOL",7
+"Voyager DE-PRO, Applied Biosystems",7
+"TripleTOF 5600+, AB Sciex",7
+"JMS DX-300/JMS-3500 data system, Japan Electron Optics Laboratory, Japan",7
+ABI Sciex 5600 TripleTOF,6
+"TripleToF 5600, Sciex",6
+Bruker micrOTOF-Q,5
+Fisons VG Platform,4
+LC-IT-TOF (Shimadzu),4
+Thermo Q Exactive HF hybrid Orbitrap,4
+"LTQ-Orbitrap Elite, Thermo Scientific Ultimate 3000 ultra-high-pressure liquid chromatography, Thermo Scientific",4
+LCT Micromass,3
+Bruker Apex QE 12T FT-ICR,3
+Waters QTof-Micro,3
+"LC-ESI-ITTOF, Shimadzu",3
+Dionex U3000 and Exactive Orbitrap (Thermofisher Scientific),3
+"LTQ Orbitrap XL, Thermo Scientific",3
+"LCQ mass spectrometer (Finnigan MAT, San Jose, CA, USA)",3
+"Xevo G2 XS QTOF, waters",3
+JMS-S3000,2
+APEX-II FT-ICR (Bruker Daltonics),2
+"LTQ Orbitrap XL hybrid iontrap-Orbitrap (Thermo Fisher Scientific, San Jose, CA, USA)",2
+Acquity UPLC and a Xevo TQ (Waters),2
+"Finnigan (San Jose, CA, USA) model LCQ Duo quadruple-ion trap mass spectrometer;  ThermoQuest (San Jose, CA, USA) model P4000 HPLC",2
+JEOL JMS DX-300,2
+Xevo G2 XS QTOF waters,2
+"Quattro Premier, Micromass. Alliance HT 2795,Waters",1
+"LCQ ion-trap instrument (Finngan MAT, San Jose, CA, USA); Waters (Milford, MA, USA) 2690 HPLC",1
+JEOL JMS DX-303,1
